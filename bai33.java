@@ -19,3 +19,5 @@ class AA{
 		return a+b;
 	}
 }
+class new {
+}
